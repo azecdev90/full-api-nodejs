@@ -1,0 +1,15 @@
+{
+  "name": "full-api-nodejs",
+  "version": "1.0.0",
+  "description": "Full API application built with NodeJS & Express ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amir Zec",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.20.1"
+  }
+}
